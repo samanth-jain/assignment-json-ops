@@ -1,4 +1,4 @@
-# JSON Group Spring Boot Application
+# Backend Assignment - JSON group by and Sort By Operators
 
 ## Overview
 This Spring Boot application allows you to insert and query JSON records in dynamic datasets using MongoDB. It supports group-by and sort-by operations via REST APIs.
